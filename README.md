@@ -52,7 +52,8 @@ To run this project on local pc:
  </pre>
 
  <h2>Screenshots:</h2>
- <h3>Login page:</h3>
+ <h3>Drive Link:</h3> https://drive.google.com/drive/folders/1C181Cb4RlqQh3h6Gsrn-9R75ptWxV5VE?usp=sharing
+  
  
 
 
