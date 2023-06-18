@@ -53,7 +53,7 @@ To run this project on local pc:
 
  <h2>Screenshots:</h2>
  <h3>Login page:</h3>
- ![Screenshot (2)](https://github.com/Shivendra-0001/covidVaccine/assets/103211762/590520cf-4e46-4c99-87c1-f5ff85f9df32)
+ 
 
 
  
