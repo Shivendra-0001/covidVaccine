@@ -12,7 +12,7 @@ To run this project on local pc:
  npx prisma generate.
  npm run dev.
 ```
-
+<pre>
 Features:
 *User Registration and Login:
 
@@ -49,5 +49,6 @@ Features:
 
  -Admins can view dosage details aggregated by vaccination centres.
  -This feature provides information on the number of dosages administered at each centre.
+ </pre>
 
 
