@@ -13,7 +13,7 @@ To run this project on local pc:
  npm run dev.
 ```
 <pre>
-Features:
+<h2>Features:</h2>
 *User Registration and Login:
 
 *Users can create an account by signing up with their details.
@@ -50,5 +50,9 @@ Features:
  -Admins can view dosage details aggregated by vaccination centres.
  -This feature provides information on the number of dosages administered at each centre.
  </pre>
+
+ <h2>Screenshots:</h2>
+ <h3>Login page:</h3>
+ <img src = "C:/Users/Shivendra/Pictures/Screenshots/Screenshot (2).png">
 
 
